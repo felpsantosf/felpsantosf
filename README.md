@@ -1,6 +1,4 @@
-- 👋 Olá, eu sou @felpsantosf
-- 👀 Estou interessado em trabalhar na área de TI
-- 👨🏾‍💻 Atualmente estou aprendendo programação e modelagem de software 
+- 👋 Olá, eu sou @felpsantosf 
 - 📫 Este é o meu email felipesantosfs2409@gmail.com
 
 <!---
